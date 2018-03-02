@@ -16,6 +16,7 @@ Open edX XBlock Tutorial
     concepts/index
     edx_platform/index
     glossary
+    intro.rst
 
 **********
 Appendices
