@@ -1,16 +1,5 @@
-*******
-Read Me
-*******
+Introduction
+************
 
-The *Open edX XBlock Tutorial* is created using RST_ files and Sphinx_. You,
-the user community, can help update and revise this documentation project on
-GitHub.
-
-https://github.com/edx/edx-documentation/tree/master/en_us/xblock-tutorial/source
-
-The edX documentation team welcomes contributions from Open edX community
-members. You can find guidelines for how to `contribute to edX Documentation`_
-in the GitHub edx/edx-documentation repository.
-
-.. include:: ../../../links/links.rst
+ This guide will show you how to create and maintain a personal blog using Wix. Blogs have been increasing in popularity over the last few years, and have become an important way that people consume information on the Internet. The information contained within blogs is particularly useful and interesting to a number of people from different backgrounds and skill sets.
 
