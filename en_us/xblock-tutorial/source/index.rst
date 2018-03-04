@@ -10,8 +10,3 @@ Create A Blog Post
 
     front_matter/index
     overview/index
-    getting_started/index
-    anatomy/index
-    customize/index
-    concepts/index
-    edx_platform/index
