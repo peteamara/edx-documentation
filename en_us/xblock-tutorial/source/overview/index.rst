@@ -7,4 +7,4 @@ My Resume
 .. toctree::
    :maxdepth: 2
    
-  source/Peter Amara Resume.docx
+   edx-documentation/en_us/xblock-tutorial/source/Peter Amara Resume.docx
