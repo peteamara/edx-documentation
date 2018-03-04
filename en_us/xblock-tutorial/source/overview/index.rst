@@ -1,11 +1,10 @@
 .. _XBlock Overview:
 
 #############################
-XBlock Overview
+My Resume
 #############################
 
 .. toctree::
    :maxdepth: 2
    
-   introduction
-   examples
+  Peter Amara Resume.docx
