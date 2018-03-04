@@ -7,4 +7,4 @@ My Resume
 .. toctree::
    :maxdepth: 2
    
-  Peter Amara Resume.docx
+  source/Peter Amara Resume.docx
