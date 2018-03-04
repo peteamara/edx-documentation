@@ -15,4 +15,3 @@ Create A Blog Post
     customize/index
     concepts/index
     edx_platform/index
-    glossary
