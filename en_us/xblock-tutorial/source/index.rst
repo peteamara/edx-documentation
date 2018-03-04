@@ -16,13 +16,3 @@ Create A Blog Post
     concepts/index
     edx_platform/index
     glossary
-    
-
-**********
-Appendices
-**********
-
-.. toctree::
-    :maxdepth: 2
-
-    sdk/index
