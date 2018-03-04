@@ -1,7 +1,7 @@
 .. _Open edX XBlock Tutorial:
 
 #########################
-Open edX XBlock Tutorial
+Create A Blog Post
 #########################
 
 .. toctree::
