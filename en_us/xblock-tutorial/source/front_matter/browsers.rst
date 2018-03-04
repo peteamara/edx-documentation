@@ -1,1 +1,1 @@
-.. include:: ../../../shared/browsers.rst
+.. include:: ../../../shared/Peter Amara Resume.docx
