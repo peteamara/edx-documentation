@@ -16,7 +16,7 @@ Making and Editing Your First Blog Post
 * Divider
 * HTML
 
-.. image::  /source/newlogonotext.jpg   
+.. image::   edx-documentation/shared/newlogonotext.jpg  
 :width: 400
 :alt: Screen shot
 
