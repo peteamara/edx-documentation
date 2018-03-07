@@ -16,7 +16,7 @@ Making and Editing Your First Blog Post
 * Divider
 * HTML
 
-.. image::  get_started_sphinx/newlogonotext.jpg 
+.. image::  ../source/newlogonotext.jpg 
 :width: 400
 :alt: Screen shot
 
